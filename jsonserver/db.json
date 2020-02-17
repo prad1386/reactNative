@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Pradeep",
+      "content": "New Content"
+    },
+    {
+      "title": "Server titlte",
+      "content": "Server content",
+      "id": 2
+    },
+    {
+      "title": "Third titpw",
+      "content": "Third content",
+      "id": 3
+    },
+    {
+      "title": "Fifth updated",
+      "content": "Fifth",
+      "id": 5
+    }
+  ]
+}
